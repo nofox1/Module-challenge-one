@@ -1,1 +1,4 @@
-# Module-challenge-one
+# What is Horiseon?
+![image](https://github.com/nofox1/Module-challenge-one/assets/136627240/3c8e4131-7212-464f-b159-df848141ee4f)
+![image](https://github.com/nofox1/Module-challenge-one/assets/136627240/0d5ad1d1-63b8-4b3a-84a2-af13a2d73bdc)
+Horiseon are the first steps into making a website and key points on how to make a website not just for you but others too. Horiseon sums up three main topics that can help you think better when making a website such as Search Engine Optimization, Online Reputation Management, and Social Media Marketing. Search Engine Optimization explains how the visibility of your website will increase to find the right customers. Online Reputation Managment basically shows customers what they want to see. Finally Social Media Marketing pretty much is around social media and where your brand is best suited.    
